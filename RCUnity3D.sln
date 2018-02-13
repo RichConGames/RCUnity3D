@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCUnity3D", "RCUnity3D\RCUnity3D.csproj", "{E8FD9812-36C9-4885-95D4-2FF8168572BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FD9812-36C9-4885-95D4-2FF8168572BD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FD9812-36C9-4885-95D4-2FF8168572BD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E8FD9812-36C9-4885-95D4-2FF8168572BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FD9812-36C9-4885-95D4-2FF8168572BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782275AC-4302-4987-8780-A22924E3BC3E}
+	EndGlobalSection
+EndGlobal
