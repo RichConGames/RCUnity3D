@@ -2,7 +2,7 @@
 
 namespace RCUnity3D
 {
-    class Globals
+    public class Globals
     {
         #region Game
 

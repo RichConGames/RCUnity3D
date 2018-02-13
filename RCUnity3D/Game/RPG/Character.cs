@@ -4,7 +4,7 @@
 
 namespace RCUnity3D.Game.RPG // Unity3D class library for role-playing game characters and setups.
 {
-    class Character // An 'RC' role-playing game character. 
+    public class Character // An 'RC' role-playing game character. 
     {
         public class RPGComponent // The primary component used for managing an RPG Character using the RCUnity3d library.
         {

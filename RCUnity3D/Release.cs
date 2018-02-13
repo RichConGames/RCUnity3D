@@ -20,7 +20,7 @@ namespace RCUnity3D // RichCon Unity3D General Purpose Library
 
         public Release ()
         {
-            Version = 0.014f; // The version number for this release.
+            Version = 0.015f; // The version number for this release.
             Date = "10/02/2018"; // The release date for this release.
             LibraryName = "RichCon Unity3D General Purpose Library"; // The firstName of this .dll library.
             Author = "Connor Richards ( AKA RichCon Games )"; // The author of this library.

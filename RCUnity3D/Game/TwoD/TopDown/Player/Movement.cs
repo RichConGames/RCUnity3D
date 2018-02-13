@@ -4,7 +4,7 @@
 
 namespace RCUnity3D.Game.TwoD.TopDown.Player // Unity3D class library for player interaction and control in a top-down/isometric 2D context.
 {
-    class Movement // An 'RC' setup for basic top-down 2d movement.
+    public class Movement // An 'RC' setup for basic top-down 2d movement.
     {
         public class MovementComponent // A movement component used to deliver physics based movement in a top-down, 2D context.
         {
